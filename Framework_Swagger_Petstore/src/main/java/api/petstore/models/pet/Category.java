@@ -9,7 +9,7 @@ import lombok.Data;
 public class Category {
 
     @JsonProperty("id")
-    private int id;
+    private long id;
 
     @JsonProperty("name")
     private String name;

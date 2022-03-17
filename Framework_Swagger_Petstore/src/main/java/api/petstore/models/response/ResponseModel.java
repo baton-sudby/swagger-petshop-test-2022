@@ -11,7 +11,7 @@ import lombok.Data;
 public class ResponseModel {
 
     @JsonProperty("code")
-    private int code;
+    private long code;
 
     @JsonProperty("type")
     private String type;
