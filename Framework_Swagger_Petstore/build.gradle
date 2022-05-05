@@ -1,0 +1,31 @@
+plugins {
+    id 'java'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+    annotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.18.8'
+
+    testAnnotationProcessor group: 'org.projectlombok', name: 'lombok', version: '1.18.8'
+
+    testImplementation group: 'org.assertj', name: 'assertj-core', version: '3.20.2'
+    testImplementation group: 'org.testng', name: 'testng', version: '7.4.0'
+
+    implementation 'com.github.tomakehurst:wiremock-jre8:2.32.0'
+    implementation group: 'net.serenity-bdd', name: 'serenity-core', version: '2.6.0'
+    implementation group: 'net.serenity-bdd', name: 'serenity-rest-assured', version: '2.6.0'
+    implementation group: 'log4j', name: 'log4j', version: '1.2.17'
+    implementation group: 'org.projectlombok', name: 'lombok', version: '1.18.20'
+    implementation group: 'com.github.erosb', name: 'everit-json-schema', version: '1.13.0'
+}
+
+test {
+    useTestNG()
+}

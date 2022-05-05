@@ -1,0 +1,34 @@
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\textFile.txt (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\textFile.txt (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\textFile.txt (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\wordFile.doc (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\wordFile.doc (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\wordFile.doc (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\HTMLFile.html (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\HTMLFile.html (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.io.FileNotFoundException) caught when processing request to {}->http://petstore.swagger.io:80: .\src\main\resources\documents\HTMLFile.html (Системе не удается найти указанный путь)
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.net.SocketException) caught when processing request to {}->http://petstore.swagger.io:80: Software caused connection abort: socket write error
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.net.SocketException) caught when processing request to {}->http://petstore.swagger.io:80: Software caused connection abort: socket write error
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.net.SocketException) caught when processing request to {}->http://petstore.swagger.io:80: Software caused connection abort: socket write error
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.net.SocketException) caught when processing request to {}->http://petstore.swagger.io:80: Software caused connection abort: socket write error
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.net.SocketException) caught when processing request to {}->http://petstore.swagger.io:80: Software caused connection abort: socket write error
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.net.SocketException) caught when processing request to {}->http://petstore.swagger.io:80: Software caused connection abort: socket write error
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.net.SocketException) caught when processing request to {}->http://petstore.swagger.io:80: Software caused connection abort: socket write error
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - I/O exception (java.net.SocketException) caught when processing request to {}->http://petstore.swagger.io:80: Software caused connection abort: socket write error
+[Test worker] INFO  org.apache.http.impl.client.DefaultHttpClient  - Retrying request to {}->http://petstore.swagger.io:80
